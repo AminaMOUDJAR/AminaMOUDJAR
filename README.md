@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AminaMOUDJAR
 - just call me Yasmine
-- 👀 I’m interested in web & app development, Ai... 
-- 🌱 I’m currently learning java , javascript , html and css , sql 
+- 👀 I’m interested in web & app development, Ai enthusiast, also interested in computational neuroscience and bio-informatics... 
+- 🌱 I’m currently learning python for Ai, machine learning, javascript and front end web development
 - 📫 How to reach me ? Here's my email adress : "amoudjar5@gmail.com"
 
 <!---
