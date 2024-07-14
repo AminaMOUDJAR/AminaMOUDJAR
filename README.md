@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amoudjar5" target="blank"><img src="https://img.shields.io/twitter/follow/amoudjar5?logo=twitter&style=for-the-badge" alt="amoudjar5" /></a> </p>
 
-- 🌱 I’m currently learning **Data engineering and Deep Learning**
+- 🌱 I’m currently learning **Data engineering and Deep Learning and Web development**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
