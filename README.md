@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amina Moudjar</h1>
-<h3 align="center">An aspiring AL/ML from Algeria</h3>
+<h3 align="center">An aspiring AL/ML engineer from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminamoudjar&label=Profile%20views&color=0e75b6&style=flat" alt="aminamoudjar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amoudjar5" target="blank"><img src="https://img.shields.io/twitter/follow/amoudjar5?logo=twitter&style=for-the-badge" alt="amoudjar5" /></a> </p>
 
-- 🌱 I’m currently learning **AI and Data engineering**
+- 🌱 I’m currently learning **Machine learning with scikit learn and Data engineering**
 
-- 📝 I regularly write articles on [LinkedIn](LinkedIn)
+- 📝 I regularly write articles on [LinkedIn](LinkedIn) and [Medium](medium)
 
 - 📫 How to reach me **moudjaramina2001@gmail.com**
 
@@ -16,6 +16,8 @@
 <a href="https://twitter.com/amoudjar5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amoudjar5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amina moudjar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amina moudjar" height="30" width="40" /></a>
 <a href="https://kaggle.com/aminamoudjar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aminamoudjar21" height="30" width="40" /></a>
+</p>
+<a href="[https://medium.com/@moudjaramina]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="aminamoudjar21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
