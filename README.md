@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amina Moudjar</h1>
-<h3 align="center">A passionate Software developer and Data enthusiast from Algeria</h3>
+<h3 align="center">An aspiring AL/ML from Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminamoudjar&label=Profile%20views&color=0e75b6&style=flat" alt="aminamoudjar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amoudjar5" target="blank"><img src="https://img.shields.io/twitter/follow/amoudjar5?logo=twitter&style=for-the-badge" alt="amoudjar5" /></a> </p>
 
-- 🌱 I’m currently learning **Data engineering and Deep Learning and Web development**
+- 🌱 I’m currently learning **AI and Data engineering**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn)
 
