@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/amoudjar5" target="blank"><img src="https://img.shields.io/twitter/follow/amoudjar5?logo=twitter&style=for-the-badge" alt="amoudjar5" /></a> </p>
 
-- 🌱 I’m currently learning **Machine learning with scikit learn and Data engineering**
+- 🌱 I’m currently learning **Machine learning with scikit learn/PyTorch and AI agents**
 
 - 📝 I regularly write articles on [LinkedIn](LinkedIn) and [Medium](medium)
 
-- 📫 How to reach me **moudjaramina2001@gmail.com**
+- 📫 How to reach me **amina.moudjar01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
