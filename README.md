@@ -1,3 +1,4 @@
+<h1 align="center"> السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨ </h1>
 <h1 align="center">Hi 👋, I'm Amina Moudjar</h1>
 <h3 align="center">An aspiring AL/ML engineer from Algeria</h3>
 
